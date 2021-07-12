@@ -8,4 +8,4 @@
 - Here is the website link ---> https://akmahim.github.io/Food-app/
 
 
-![travel-website](https://github.com/AKmahim/Web-development/blob/master/Food-app/images/ss.png)
+![travel-website](https://github.com/AKmahim/Food-app/blob/master/images/ss.png)
