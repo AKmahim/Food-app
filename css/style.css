@@ -652,7 +652,8 @@ body.dark-theme{
 		margin: 0 auto;
 	}
 	.home__data,
-	.app__data{
+	.app__data,
+	.footer__data{
 		margin: 0 auto;
 	}
 
